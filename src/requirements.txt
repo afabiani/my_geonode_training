@@ -1,0 +1,7 @@
+# -e git+https://github.com/GeoNode/geonode-mapstore-client.git@4.0.x#egg=django_geonode_mapstore_client
+# -e git+https://github.com/GeoNode/geonode.git@4.0.x#egg=GeoNode
+# GeoNode==4.0.3
+# -e /opt/geonode
+
+-e git+https://github.com/afabiani/geonode-mapstore-client.git@training_geonode_client_4x#egg=django_geonode_mapstore_client
+-e git+https://github.com/afabiani/geonode.git@training_geonode_4x#egg=GeoNode
